@@ -32,5 +32,5 @@ Enter your note: Learn Java File I/O
    java FileIONotesApp
 5. Enter notes and view them stored in notes.txt.
 
-**Author**
+***Author***
 Dimpal Rana
